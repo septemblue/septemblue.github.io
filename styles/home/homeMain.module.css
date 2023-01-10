@@ -1,0 +1,21 @@
+.kotakMain {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  align-items: center;
+
+
+  background-color: rgba(12, 13, 34, 0.8);
+  border-radius: 2%;
+  width: 100%;
+  max-width: 1300px;
+  height: 2000px;
+
+  transition: 0.4s;
+}

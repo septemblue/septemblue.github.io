@@ -1,0 +1,16 @@
+.profile h1{
+  padding: 25px 0 10px 0;
+  font-family: 'Noto Sans', sans-serif;
+  text-align: justify;
+  font-size: 5rem;;
+  color: whitesmoke;
+}
+.profile h2 {
+  font-family: 'Noto Sans', sans-serif;
+  color: rgba(179, 230, 102, 0.9);
+  font-size: 2rem;
+}
+.links li {
+  float: left;
+  padding: 10px 5px 0 0;
+}
