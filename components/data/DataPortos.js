@@ -17,7 +17,7 @@ const DataPortos = [
     title: "Insorma",
     text: "Aplikasi E-Commerce Insorma praktis yang ditujukan untuk memudahkan perbelanjaan secara online dengan beberapa fitur seperti transaksi, riwayat belanja, google map dan lainya.",
     image: {
-      src: "/insorma.png",
+      src: "/Insorma.png",
       gif: "/",
       alt: "portofolio pertama",
       width: 720,
