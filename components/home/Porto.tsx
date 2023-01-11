@@ -22,6 +22,7 @@ const Porto = (props: Props): JSX.Element => {
   let [images, setImages] = React.useState(props.image.src);
 
   let imagePlay = (): void => {
+    if (props.image.gif == "/") return;
     setImages(props.image.gif);
   };
   let imageStop = (): void => {

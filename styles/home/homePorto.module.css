@@ -18,7 +18,7 @@
 }
 .container:hover {
 	background: rgba(255, 255, 255, 0.9);
-	border: 6px solid rgba(88, 176, 192, 0.7);
+	border: 4px solid rgba(99, 204, 223, 0.7);
 }
 .productDetails{
 	display: flex;
@@ -37,11 +37,12 @@
 	font-weight: 700;
 	display: inline-block;
 	position: relative;
-	font-size: 2.3em;
+	font-size: 2.7em;
 	color: #344055;
 }
 .productDetails p {
 	font-family: 'Poppins', sans-serif;
+	font-size: 1.178em;
 	font-weight: 500;
 	margin-right: 26px;
 }
@@ -57,10 +58,11 @@
 }
 .productImage {
 	margin: auto;
-	width: 500px;
+	width: 275px;
 	height: 500px;
 }
 .image {
+	border: 5px solid rgba(20, 22, 22, 0.75);
 	border-radius: 5%;
 	height: 100%;
 	width: 100%;
